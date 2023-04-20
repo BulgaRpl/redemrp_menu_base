@@ -12,7 +12,7 @@ qadr version has changed CSS, image compatibility, and add nui focus control.
 
 ## 1. Installation
 - Clone redemrp_menu_base into "resources" folder
-- add ```ensure redemrp_menu_base``` after ```ensure redem_roleplay```
+- add ```ensure redemrp_menu_base``` in start order list.
 
 image : 
 
