@@ -1,5 +1,3 @@
-RedEM = exports["redem_roleplay"]:RedEM()
-
 MenuData = {}
 MenuData.Opened = {}
 MenuData.RegisteredTypes = {}
